@@ -6,7 +6,7 @@ More about me!
 
 - I am currently a full time student at Lambda School on the Data Science track
 - Keep up to date with my projects at my [portfolio page](http://steventchase.com)
-- I am currently working on an NLP applicaiton that transcribes young students handwriten stories and evaluates the complexity of the writing.
+- I am currently working on an NLP applicaiton that transcribes young students handwritten stories and evaluates the complexity of the writing.
 - Latest interest: Julia programming language
 
 Contact me at schase15@gmail.com
