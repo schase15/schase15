@@ -4,9 +4,9 @@ I am a full-stack data scientist with a strong math background and experience us
 
 More about me:
 
-- Full time student at Lambda School on the Data Science track
+- Full time student at Lambda School on the Data Science track, part-time student at Columbia University pursing a B.S in Computer Science with a focus on the Intelligent Systems track
 - Keep up to date with my projects at my [portfolio page](http://steventchase.com)
-- Currently working on an NLP applicaiton that transcribes young students handwritten stories and evaluates the complexity of the writing.
-- Latest interest: Julia programming language
+- Currently working on an NLP application that transcribes young students handwritten stories and evaluates the complexity of the writing.
+- Latest interests: Computer Vision and Julia programming language
 
 Contact me at schase15@gmail.com
