@@ -6,7 +6,7 @@ More about me:
 
 - Full time student at Lambda School on the Data Science track, part-time student at Columbia University pursing a B.S in Computer Science with a focus on the Intelligent Systems track
 - Keep up to date with my projects at my [portfolio page](http://steventchase.com)
-- Currently working on an NLP application that transcribes young students handwritten stories and evaluates the complexity of the writing.
+- Currently working on an OCR and NLP application that transcribes young students handwritten stories and evaluates the complexity of the writing to gamify the creative writing process.
 - Latest interests: Computer Vision and Julia programming language
 
 Contact me at schase15@gmail.com
